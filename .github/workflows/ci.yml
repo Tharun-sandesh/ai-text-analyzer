@@ -16,7 +16,7 @@ jobs:
     runs-on: ubuntu-latest
 
     env:
-      IMAGE_NAME: ghcr.io/Tharun-sandesh/ai-text-analyzer
+      IMAGE_NAME: ghcr.io/tharun-sandesh/ai-text-analyzer
 
     steps:
       - name: Get project code
